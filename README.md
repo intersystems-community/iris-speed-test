@@ -21,6 +21,7 @@ You can run the tests on both your own PC and AWS! Here are some results:
   * InterSystems IRIS is 33750% faster than SQL Server 2022 at querying
 
 
+
 ![InterSystems IRIS](https://raw.githubusercontent.com/fanji-isc/IRIS-Speed-Test/refs/heads/main/results/IRIS.png)
 
 
