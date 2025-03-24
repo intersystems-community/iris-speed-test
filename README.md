@@ -4,7 +4,7 @@ The capability to ingest thousands or millions of records per second while allow
 
 This demo shows how InterSystems IRIS can ingest thousands of records per second while allowing for simultaneous queries on the data on the same cluster with very high performance for both ingestion and querying, and with low resource utilization. The demo works on a single InterSystems IRIS instance or on an InterSystems IRIS cluster on the cloud.
 
-The same demo can be run on PostgreSQL, MySQL, SqlServer and Amazon Aurora to compare performance and resource utilization in “apples-to-apples” comparisons. 
+The same demo can be run on PostgreSQL, MySQL, and SqlServer to compare performance and resource utilization in “apples-to-apples” comparisons. 
 
 You can run the tests on both your own PC and AWS! Here are some results:
 
