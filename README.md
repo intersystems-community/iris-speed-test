@@ -10,30 +10,29 @@ You can run the tests on both your own PC and AWS! Here are some results:
 
   
 * InterSystems IRIS x SQL Server 2022
-  * InterSystems IRIS ingests 281% faster more records than SQL Server 2022
-  * InterSystems IRIS is 33750% faster than SQL Server 2022 at querying
-    
-
+  * InterSystems IRIS ingests records 3.81 times faster than SQL Server 2022
+  * InterSystems IRIS is 338.5 times faster than SQL Server 2022 at querying
 
 * InterSystems IRIS x MySQL 9.1.0
-  * InterSystems IRIS ingests 1217% more records than MySQL 9.1.0
-  * InterSystems IRIS is 332% faster than MySQL 9.1.0 at querying
+  * InterSystems IRIS ingests records 13.17 times faster than MySQL 9.1.0
+  * InterSystems IRIS is 4.32 times faster than MySQL 9.1.0 at querying
 
 * InterSystems IRIS x Postgres 14
-  * InterSystems IRIS ingests 61.5% more records than PostgreSQL 14
-  * InterSystems IRIS is 42% faster than PostgreSQL 14 at querying
+  * InterSystems IRIS ingests records 1.615 times faster than PostgreSQL 14
+  * InterSystems IRIS is 1.42 times faster than PostgreSQL 14 at querying
 
 
 ![InterSystems IRIS](https://raw.githubusercontent.com/fanji-isc/IRIS-Speed-Test/refs/heads/main/results/IRIS.png)
 
 
-![PostgreSQL 14](https://raw.githubusercontent.com/fanji-isc/IRIS-Speed-Test/refs/heads/main/results/PostgreSQL.png)
+![MS SQL Server 2022](https://raw.githubusercontent.com/fanji-isc/IRIS-Speed-Test/refs/heads/main/results/SQLserver.png)
 
 
 ![MySQL 9.1.0](https://raw.githubusercontent.com/fanji-isc/IRIS-Speed-Test/refs/heads/main/results/MySQL.png)
 
 
-![MS SQL Server 2022](https://raw.githubusercontent.com/fanji-isc/IRIS-Speed-Test/refs/heads/main/results/SQLserver.png)
+![PostgreSQL 14](https://raw.githubusercontent.com/fanji-isc/IRIS-Speed-Test/refs/heads/main/results/PostgreSQL.png)
+
 
 
 
