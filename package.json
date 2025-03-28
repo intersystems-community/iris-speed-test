@@ -3,6 +3,7 @@
     "@angular-devkit/build-angular": "^19.2.5",
     "karma": "^6.4.4",
     "protractor": "^7.0.0",
+    "tough-cookie": "^4.1.4",
     "ts-node": "^10.9.2",
     "tslint": "^6.1.3"
   }
